@@ -112,9 +112,9 @@ Space Complexity: O(n) - We use a hash map to store the values we've seen.
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | | | | | ✓ |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | | | | ✓ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | | | | | ✓ |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | | | | | ✓ |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | | | | | ✓ |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | | | | | ✓ |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | ✓ | ✓ | ✓ | ✓ |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | ✓ | ✓ | ✓ | ✓ |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | ✓ | ✓ | ✓ | ✓ |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | | | | | ✓ |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | | | | | ✓ |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | | | | | ✓ |
@@ -229,6 +229,5 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 Feel free to reach out if you have any questions or want to discuss these solutions!
 
-- GitHub: [Your GitHub Username](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Email: aditya.gardian@gmail.com
+- LinkedIn: [Aditya Choudhry](https://www.linkedin.com/in/aditya-choudhry/)
