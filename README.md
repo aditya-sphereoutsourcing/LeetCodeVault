@@ -93,6 +93,41 @@ Space Complexity: O(n) - We use a hash map to store the values we've seen.
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | | | | | ✓ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | | | | | ✓ |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | | | | | ✓ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | | | | | ✓ |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | | | | | ✓ |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | | | | | ✓ |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | | | | | ✓ |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | | | | | ✓ |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | | | | | ✓ |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | | | | | ✓ |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | | | | | ✓ |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | | | | | ✓ |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | | | | | ✓ |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | | | | | ✓ |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | | | | | ✓ |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | | | | | ✓ |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | | | | | ✓ |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | | | | | ✓ |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | | | | | ✓ |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | | | | | ✓ |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | | | | ✓ |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | | | | | ✓ |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | | | | | ✓ |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | | | | | ✓ |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | | | | | ✓ |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | | | | | ✓ |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | | | | | ✓ |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | | | | | ✓ |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | | | | | ✓ |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | | | | | ✓ |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | | | | | ✓ |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | | | | | ✓ |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | | | | | ✓ |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | | | | | ✓ |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | | | | | ✓ |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | | | | | ✓ |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | | | | | ✓ |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | | | | | ✓ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -134,6 +169,41 @@ This repository is updated daily with new problems. The solutions are added chro
 - Day 29 (Mar 5, 2025): Problem #62
 - Day 30 (Mar 6, 2025): Problem #64
 - Day 31 (Mar 7, 2025): Problem #72
+- Day 32 (Mar 8, 2025): Problem #75
+- Day 33 (Mar 9, 2025): Problem #76
+- Day 34 (Mar 10, 2025): Problem #78
+- Day 35 (Mar 11, 2025): Problem #79
+- Day 36 (Mar 12, 2025): Problem #84
+- Day 37 (Mar 13, 2025): Problem #85
+- Day 38 (Mar 14, 2025): Problem #94
+- Day 39 (Mar 15, 2025): Problem #96
+- Day 40 (Mar 16, 2025): Problem #98
+- Day 41 (Mar 17, 2025): Problem #101
+- Day 42 (Mar 18, 2025): Problem #102
+- Day 43 (Mar 19, 2025): Problem #104
+- Day 44 (Mar 20, 2025): Problem #105
+- Day 45 (Mar 21, 2025): Problem #114
+- Day 46 (Mar 22, 2025): Problem #124
+- Day 47 (Mar 23, 2025): Problem #128
+- Day 48 (Mar 24, 2025): Problem #136
+- Day 49 (Mar 25, 2025): Problem #139
+- Day 50 (Mar 26, 2025): Problem #141
+- Day 51 (Mar 27, 2025): Problem #142
+- Day 52 (Mar 28, 2025): Problem #148
+- Day 53 (Mar 29, 2025): Problem #152
+- Day 54 (Mar 30, 2025): Problem #155
+- Day 55 (Mar 31, 2025): Problem #160
+- Day 56 (Apr 1, 2025): Problem #169
+- Day 57 (Apr 2, 2025): Problem #198
+- Day 58 (Apr 3, 2025): Problem #206
+- Day 59 (Apr 4, 2025): Problem #207
+- Day 60 (Apr 5, 2025): Problem #208
+- Day 61 (Apr 6, 2025): Problem #215
+- Day 62 (Apr 7, 2025): Problem #221
+- Day 63 (Apr 8, 2025): Problem #226
+- Day 64 (Apr 9, 2025): Problem #230
+- Day 65 (Apr 10, 2025): Problem #232
+- Day 66 (Apr 11, 2025): Problem #235
 
 ## How to Use This Repository
 
